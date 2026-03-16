@@ -1,0 +1,13 @@
+3/16/2026:
+
+> installed dev. env.
+	- ArduinoIDE
+
+> installed package/drivers
+	- ESP32
+
+> test blinking -> OK
+
+> Need:
+	- wire
+	- connector (FSR to wire)

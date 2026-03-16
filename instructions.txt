@@ -1,0 +1,21 @@
+# Install Development environment
+
+> ArduinoIDE
+
+# Install Packages
+
+> ESP32 board
+
+	1. Go to: file -> preferences -> additional board managers
+	2. Paste: "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json"
+	3. Go to: boards manager
+	4. Search for: "ESP32" (by espressif systems)
+	5. Install
+	6. Go to: tools -> board -> esp32 -> (should see) ESP32 dev module
+
+	>>> if driver is not found.
+	1. Go to Device manager -> other device (or whatever the esp32 is detected on) -> <the esp32 device> (right click) -> properties -> deteil -> hardware id.
+	2. copy the hardware id and search for its driver and install.
+
+> 
+
