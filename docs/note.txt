@@ -11,3 +11,14 @@
 > Need:
 	- wire
 	- connector (FSR to wire)
+
+
+4/8/2026:
+
+> finished up initial version of application, ready for testing
+
+> hardware setup partially done and still on going
+	- installed fsr on acrylin pad and top with same size of acrylin pad. 
+	- sensing is bad because arylin pad is flexing, when applying force on the middle, force is not distributed to the fsr on each cornor.
+	+ potential solution: adjusting FSR location, have top layer of acrylin cut into individual for each FSR and ensure there is no space/gap. adjust resistor value for voltage devider.
+
